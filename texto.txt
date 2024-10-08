@@ -12,4 +12,8 @@ Probando git commit -am
 
 Probando la nueva rama
 
+<<<<<<< HEAD
 Master
+=======
+cambio en newBranch
+>>>>>>> newBranch
